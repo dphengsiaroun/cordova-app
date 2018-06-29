@@ -58,3 +58,10 @@ $ phonegap platform add android
 $ phonegap platform add ios
 ```
 
+## Run the project on Platform Android or iOS
+```
+$ phonegap run android
+// or
+$ phonegap run ios
+```
+
